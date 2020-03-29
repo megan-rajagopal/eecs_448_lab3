@@ -1,0 +1,25 @@
+body
+{
+    background-color: rgba(4, 16, 184, 0.938);
+}
+p.title
+{
+    font-family: cursive;
+    font-size: 24pt;
+    color: rgb(237, 237, 241);
+}
+p
+{
+    font-family:Impact;
+    font-size: 16pt;
+}
+a
+{
+    background-color: rgb(204, 3, 3);
+    color: white;
+}
+a:hover
+{
+    background-color: white;
+    color:rgb(204, 3, 3);
+}

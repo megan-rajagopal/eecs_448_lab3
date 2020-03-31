@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgba(6, 20, 216, 0.514);
+    
+}
+p.title
+{
+    font-family: cursive;
+    font-size: 30pt;
+    font-style: italic;
+    color: rgb(237, 237, 241);
+    border: 10px;
+    border-color: rgb(32, 32, 32);
+    border-style: double;
+}
+p
+{
+    font-family:cursive;
+    font-size: 18pt;
+}
+p.poem
+{
+    border:10px;
+    border-style: double;
+    border-color:rgb(32, 32, 32);
+    font-family: cursive;
+    color: rgb(32, 32, 32);
+}
+a
+{
+    background-color: rgba(255, 8, 8, 0.514);
+    color: white;
+}
+a:hover
+{
+    background-color: white;
+    color:rgb(255, 8, 8, 0.514);
+}
